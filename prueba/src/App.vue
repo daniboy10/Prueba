@@ -14,7 +14,7 @@
           <li>Verde <span class="Verde"></span></li>
         </ul>
       </li>
-      <li>Por medio de API / REST deberás consumir el siguiente servicio web: <span>https://licorne.mx/vacante.php</span> y llenar la tabla con los datos correspondientes.</li>
+      <li>Por medio de API / REST deberás consumir el siguiente servicio web: <span>https://licorne.mx/vacante.php</span> envíando tu nombre, posteriormente deberpas llenar la tabla con los datos correspondientes.</li>
       <li>Por último, deberás subir tu rama al repositorio de github.</li>
     </ol>
 
